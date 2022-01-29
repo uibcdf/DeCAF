@@ -1,8 +1,8 @@
 # DeCAF
 
-This repository is a fork of [DeCAF](https://bitbucket.org/marta-sd/) project by [Marta Stepniewska-Dziubinska et alt.](https://doi.org/10.3390/molecules22071128).
+This repository is a fork of [DeCAF](https://bitbucket.org/marta-sd/) by [Marta Stepniewska-Dziubinska et alt.](https://doi.org/10.3390/molecules22071128)
 
-DeCAF (Discrimination, Comparison, Alignment tool for 2D PHarmacophores) is an open-source Python to perform ligand-based virtual screenings based on 2D pharmacophoric models where chemical features -pharmacophoric elements- and distances among them take the shape of a graph. This pharmacophoric graphs are used to compare and align small molecules. DeCAF as freely available at http://bitbucket.org/marta-sd/decaf.
+DeCAF (Discrimination, Comparison, Alignment tool for 2D PHarmacophores) is an open-source Python to perform ligand-based virtual screenings based on 2D pharmacophoric models where chemical features -pharmacophoric elements- and distances among them take the shape of a graph. These pharmacophoric graphs are in the core of a set of algorithms to compare, align, and screen large sets of small molecules. DeCAF is freely available at http://bitbucket.org/marta-sd/decaf.
 
 ## Citation
 
@@ -14,7 +14,7 @@ The original DeCAF repository was forked here with an academic purpose only. **I
 
 ### Changes in this forked version of DeCAF
 
-DeCAF's workflow and strategy were implemented by Marta M. Stepniewska-Dziubinska, Piotr Zielenkiewicz and Pawel Siedlecki. The code shown here has some variations in its form, but not in the form. As such, the contributors to this repository are not the intelectual parents of the ideas behind DeCAFs. 
+DeCAF's workflow and strategy were implemented by [Marta M. Stepniewska-Dziubinska, Piotr Zielenkiewicz and Pawel Siedlecki](https://doi.org/10.3390/molecules22071128). The code shown here has some variations in its form, but not in the form. As such, the contributors to this repository are not the intelectual parents of the ideas behind DeCAFs. 
 
 The following is a brief description of the changes made by the contributors to this forked
 repository of DeCAF:
