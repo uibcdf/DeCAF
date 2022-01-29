@@ -1,0 +1,10 @@
+c1cc(cc(c1)N)c2cc(cc(c2O)c3[nH]c4ccc(cc4n3)C(=N)N)Cl 114964 Ki = 0.078 nM 12000 9 P08709 Coagulation factor VII
+c1cc(cc(c1)N(=O)=O)c2cc(cc(c2O)c3cc4cc(ccc4[nH]3)C(=N)N)C(CC(=O)O)C(=O)O 344988 Ki = 1 nM 12000 6 P08709 Coagulation factor VII
+c1cc(c(cc1CNC(=O)N)c2cc(cc(c2O)c3[nH]c4ccc(cc4n3)C(=N)N)C(CC(=O)O)C(=O)O)O 344041 Ki = 1 nM 12000 9 P08709 Coagulation factor VII
+c1ccc(cc1)C[C@@H](C(=O)NCc2cccc(c2)c3cc(cc(c3O)c4cc-5c([nH]ccc5n4)N)C(=O)O)O 357495 Ki = 1.3 nM 12000 7 P08709 Coagulation factor VII
+CC[C@@H](C)NC(=O)c1cc(cc(c1)N)c2cnc(c(=O)n2CC(=O)NCc3ccc(cc3)C(=N)N)NC(C)C 319347 IC50 = 1.7 nM 12000 8 P08709 Coagulation factor VII
+c1cc2c(cc1C(=N)N)nc([nH]2)c3cc(cc(c3O)c4cc(ccc4O)F)CC(=O)O 344583 Ki = 2 nM 12000 6 P08709 Coagulation factor VII
+CC(C)(c1cc(c(c(c1)c2cc-3c([nH]ccc3n2)N)O)c4cccc(c4)CNC(=O)Nc5c(cccc5F)F)C(=O)O 357463 Ki = 2.6 nM 12000 7 P08709 Coagulation factor VII
+c1cc(cc(c1)N(=O)=O)c2cc(cc(c2O)c3cc4cc(ccc4[nH]3)C(=N)N)CC(=O)O 116157 Ki = 3 nM 12000 6 P08709 Coagulation factor VII
+c1cc(cc(c1)N(=O)=O)c2cc(cc(c2O)c3cc4cc(ccc4[nH]3)C(=N)N)CCOP(=O)(O)O 114848 Ki = 3 nM 12000 9 P08709 Coagulation factor VII
+c1cc(c(c(c1)c2cc3cc(ccc3[nH]2)C(=N)N)O)c4cc(ccc4O)CNC(=O)CO 353197 Ki = 3 nM 12000 9 P08709 Coagulation factor VII
