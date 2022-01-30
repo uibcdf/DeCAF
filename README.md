@@ -19,7 +19,24 @@ DeCAF's workflow and strategy were implemented by [Marta M. Stepniewska-Dziubins
 The following is a brief description of the changes made by the contributors to this forked
 repository of DeCAF:
 
-- None yet
+- New directory 'devtools' with instructions to create a conda environment to work with DeCAF.
+
+## Installation
+
+### Conda environment with required packages
+
+```
+cd DeCAF/devtools/conda-envs
+python create_conda_env.py development_env.yaml -n DeCAF -p 3.7
+```
+
+### Installing the decaf module
+
+```
+conda activate DeCAF
+cd DeCAF
+python setup.py develop
+```
 
 ## DeCAF License
 

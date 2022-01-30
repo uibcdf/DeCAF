@@ -1,0 +1,11 @@
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python
+- setuptools
+- numpy
+- scipy
+- openbabel
+- matplotlib
+- rdkit
