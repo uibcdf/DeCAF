@@ -26,8 +26,12 @@ test:
 development:
   channels:
     - *production_channels
+    - uibcdf
   dependencies:
     - *production_dependencies
     - *test_dependencies
+    - pyyaml
+    - seaborn
+    - chembl_webresource_client
     - jupyterlab
 

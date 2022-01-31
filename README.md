@@ -20,6 +20,9 @@ The following is a brief description of the changes made by the contributors to 
 repository of DeCAF:
 
 - New directory 'devtools' with instructions to create a conda environment to work with DeCAF.
+- Every test script was placed in the directory 'tests'.
+- The scripts, notebooks and data included as supplementary material of DeCAF's main paper were
+  included here in the directory 'supplementary'.
 
 ## Installation
 

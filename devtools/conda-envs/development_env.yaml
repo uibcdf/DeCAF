@@ -1,6 +1,7 @@
 channels:
 - conda-forge
 - defaults
+- uibcdf
 dependencies:
 - python
 - setuptools
@@ -9,4 +10,7 @@ dependencies:
 - openbabel
 - matplotlib
 - rdkit
+- pyyaml
+- seaborn
+- chembl_webresource_client
 - jupyterlab

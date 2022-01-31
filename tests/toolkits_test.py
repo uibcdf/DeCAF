@@ -19,7 +19,7 @@ class ToolkitsTests(unittest.TestCase):
         self.types = {"AR": 6, "HH": 5, "HA": 3, "HD": 3, "R": 6}
 
     def testCreateOb(self):
-        from pybel import readstring
+        from openbabel.pybel import readstring
         import decaf.toolkits.ob as ob
         mol = readstring("smi", self.string)
         phar = ob.phar_from_mol(mol)

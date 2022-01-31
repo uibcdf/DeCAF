@@ -2,8 +2,8 @@
 """OpenBabel toolkit for DeCAF"""
 
 from decaf import PHARS, Pharmacophore
-import pybel
-import openbabel as ob
+from openbabel import pybel
+from openbabel import openbabel as ob
 import numpy as np
 from collections import deque
 import math

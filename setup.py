@@ -11,8 +11,5 @@ setup(
     url='https://bitbucket.org/marta-sd/decaf',
     license='BSD',
     packages=['decaf',
-              'decaf.toolkits',
-              'tests'],
-    test_suite='tests',
-    package_data={'tests': ['tests/*.phar']}
+              'decaf.toolkits'],
 )

@@ -166,3 +166,7 @@ class PharmacophoreTests(unittest.TestCase):
         self.assertRaises(TypeError, self.phar.remove_edge, "0", 1)
         self.assertRaises(TypeError, self.phar.remove_edge, 0, "1")
         self.assertRaises(ValueError, self.phar.remove_edge, 0, self.phar.numnodes)
+
+if __name__ == "__main__":
+    unittest.main(verbosity=2)
+
