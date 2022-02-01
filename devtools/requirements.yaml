@@ -34,4 +34,5 @@ development:
     - seaborn
     - chembl_webresource_client
     - jupyterlab
+    - tqdm
 
